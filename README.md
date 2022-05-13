@@ -2,14 +2,13 @@
 
 This web application is used for order delivery, there is an admin who can add products, change delivery status etc and there is a customer who can see it's item and see delivery status.
 
-<br>
 ## Major Functionalities: 
 - Login, Register, Logout
 - Update profile, Upload ProfilePicture
 - Add, Delete, Update items by admin
 - Update status by admin
 
-<br>
+
 ## Getting started
 Follow these steps to run this project in your local computer.
 1. Clone Repository
@@ -18,11 +17,7 @@ git clone https://github.com/sb011/Customer-Containment.git
 ```
 2. To start project
 ```
-python manage.py runserver![cc-cus](https://user-images.githubusercontent.com/71833071/168247412-7544700a-5736-4ff1-964b-aeff2134a36f.png)
-![cc-customer](https://user-images.githubusercontent.com/71833071/168247423-1d3f45f1-f33d-47da-a27d-1f09caad341d.png)
-![cc-home](https://user-images.githubusercontent.com/71833071/168247427-cda3a436-675c-4ca9-9d0f-fd8fc4ffd742.png)
-![cc-login](https://user-images.githubusercontent.com/71833071/168247430-b22333e2-de27-4f60-9c61-5acf9f42957c.png)
-
+python manage.py runserver
 ```
 
 ## Screenshots:
